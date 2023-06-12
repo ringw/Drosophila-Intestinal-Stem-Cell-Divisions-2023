@@ -1,4 +1,5 @@
 # Requirements ----
+# R 4.2.1 (used R-4.2.1 Windows binary installer)
 # Seurat 4.3.0
 # scran 1.24.1
 # glmGamPoi 1.8.0
